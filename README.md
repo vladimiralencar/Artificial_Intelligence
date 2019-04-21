@@ -1,2 +1,3 @@
-# Artificial_Intelligence
-Artificial Intelligence
+# Artificial Intelligence
+
+[image](Ai-01.jpg)
