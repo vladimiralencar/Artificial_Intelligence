@@ -1,2 +1,2 @@
 # Cognitive_Systems
-![image](CognitiveSistems.jpg)
+![image](CognitiveSistems.jpeg)
