@@ -1,3 +1,3 @@
 # Artificial Intelligence
 
-[image](Ai-01.jpg)
+![image](Ai-01.jpg)
